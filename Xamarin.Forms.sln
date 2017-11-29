@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27102.0
+VisualStudioVersion = 15.0.27004.2010
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Xamarin.Forms", "Xamarin.Forms", "{9AD757F5-E57A-459D-A0A7-E0675E045B84}"
 EndProject
@@ -1246,6 +1246,7 @@ Global
 		{00D8D049-FFAA-4759-8FC9-1ECA30777F72}.Debug|ARM.ActiveCfg = Debug|ARM
 		{00D8D049-FFAA-4759-8FC9-1ECA30777F72}.Debug|ARM.Build.0 = Debug|ARM
 		{00D8D049-FFAA-4759-8FC9-1ECA30777F72}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{00D8D049-FFAA-4759-8FC9-1ECA30777F72}.Debug|iPhone.Build.0 = Debug|Any CPU
 		{00D8D049-FFAA-4759-8FC9-1ECA30777F72}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
 		{00D8D049-FFAA-4759-8FC9-1ECA30777F72}.Debug|Templates.ActiveCfg = Debug|Any CPU
 		{00D8D049-FFAA-4759-8FC9-1ECA30777F72}.Debug|x64.ActiveCfg = Debug|x64
@@ -1298,6 +1299,7 @@ Global
 		{04D89A60-78EF-4A32-AE17-87E47E0233A5}.Debug|ARM.ActiveCfg = Debug|ARM
 		{04D89A60-78EF-4A32-AE17-87E47E0233A5}.Debug|ARM.Build.0 = Debug|ARM
 		{04D89A60-78EF-4A32-AE17-87E47E0233A5}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{04D89A60-78EF-4A32-AE17-87E47E0233A5}.Debug|iPhone.Build.0 = Debug|Any CPU
 		{04D89A60-78EF-4A32-AE17-87E47E0233A5}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
 		{04D89A60-78EF-4A32-AE17-87E47E0233A5}.Debug|Templates.ActiveCfg = Debug|Any CPU
 		{04D89A60-78EF-4A32-AE17-87E47E0233A5}.Debug|Templates.Build.0 = Debug|Any CPU
